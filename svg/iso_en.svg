@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 930.24 930.24">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        fill: url(#_名称未設定グラデーション_13-7);
+      }
+
+      .cls-3,
+      .cls-4 {
+        font-size: 55px;
+      }
+
+      .cls-5 {
+        letter-spacing: .01em;
+      }
+
+      .cls-6 {
+        stroke: #fcad3a;
+      }
+
+      .cls-6,
+      .cls-7,
+      .cls-8,
+      .cls-9,
+      .cls-10,
+      .cls-11,
+      .cls-12,
+      .cls-13 {
+        fill: #fff;
+      }
+
+      .cls-6,
+      .cls-8,
+      .cls-9,
+      .cls-10 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6,
+      .cls-10 {
+        stroke-width: 2.86px;
+      }
+
+      .cls-14 {
+        letter-spacing: -.2em;
+      }
+
+      .cls-15 {
+        fill: url(#_名称未設定グラデーション_13);
+      }
+
+      .cls-16 {
+        fill: url(#_名称未設定グラデーション_13-4);
+      }
+
+      .cls-17,
+      .cls-18 {
+        font-size: 35px;
+      }
+
+      .cls-7 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-7,
+      .cls-11,
+      .cls-12,
+      .cls-13 {
+        font-family: UDShinGoPro-Regular-90ms-RKSJ-H, 'A-OTF UD Shin Go Pro';
+        font-size: 31px;
+      }
+
+      .cls-19 {
+        fill: url(#_名称未設定グラデーション_14);
+      }
+
+      .cls-20 {
+        fill: url(#_名称未設定グラデーション_13-6);
+      }
+
+      .cls-8 {
+        stroke: #00e2ac;
+        stroke-width: 2.86px;
+      }
+
+      .cls-21 {
+        fill: url(#_名称未設定グラデーション_13-3);
+      }
+
+      .cls-22 {
+        fill: #00e2ac;
+      }
+
+      .cls-22,
+      .cls-23,
+      .cls-24,
+      .cls-25 {
+        font-family: UDShinGoPro-Bold-90ms-RKSJ-H, 'A-OTF UD Shin Go Pro';
+        font-weight: 700;
+      }
+
+      .cls-18 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-26 {
+        font-size: 54px;
+        letter-spacing: -.03em;
+      }
+
+      .cls-27 {
+        letter-spacing: .02em;
+      }
+
+      .cls-23 {
+        fill: #f95d48;
+      }
+
+      .cls-28 {
+        letter-spacing: .05em;
+      }
+
+      .cls-29 {
+        letter-spacing: .03em;
+      }
+
+      .cls-30 {
+        fill: url(#_名称未設定グラデーション_13-2);
+      }
+
+      .cls-9 {
+        stroke: #f95d48;
+        stroke-width: 2.86px;
+      }
+
+      .cls-31 {
+        fill: url(#_名称未設定グラデーション_13-5);
+      }
+
+      .cls-4 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-24 {
+        fill: #fcad3a;
+      }
+
+      .cls-10 {
+        stroke: #435eff;
+      }
+
+      .cls-32 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-11 {
+        filter: url(#drop-shadow-2);
+      }
+
+      .cls-25 {
+        fill: #435eff;
+      }
+
+      .cls-12 {
+        filter: url(#drop-shadow-3);
+      }
+
+      .cls-13 {
+        filter: url(#drop-shadow-4);
+      }
+    </style>
+    <linearGradient id="_名称未設定グラデーション_13" x1="465.12" y1="350" x2="465.12" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#62b9b9" />
+      <stop offset="1" stop-color="#324698" />
+    </linearGradient>
+    <linearGradient id="_名称未設定グラデーション_13-2" x1="580.24" y1="465.12" x2="930.24" y2="465.12"
+      xlink:href="#_名称未設定グラデーション_13" />
+    <linearGradient id="_名称未設定グラデーション_14" x1="350" y1="465.12" x2="0" y2="465.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#62b9b9" />
+      <stop offset="1" stop-color="#324698" />
+    </linearGradient>
+    <linearGradient id="_名称未設定グラデーション_13-3" x1="470.12" y1="580.24" x2="470.12" y2="930.24"
+      xlink:href="#_名称未設定グラデーション_13" />
+    <linearGradient id="_名称未設定グラデーション_13-4" x1="563.44" y1="540.73" x2="563.44" y2="582.13"
+      xlink:href="#_名称未設定グラデーション_13" />
+    <linearGradient id="_名称未設定グラデーション_13-5" x1="540.64" y1="366.7" x2="582.04" y2="366.7"
+      xlink:href="#_名称未設定グラデーション_13" />
+    <linearGradient id="_名称未設定グラデーション_13-6" x1="389.41" y1="563.54" x2="348.01" y2="563.54"
+      xlink:href="#_名称未設定グラデーション_13" />
+    <linearGradient id="_名称未設定グラデーション_13-7" x1="344.18" y1="368.81" x2="389.03" y2="368.81"
+      xlink:href="#_名称未設定グラデーション_13" />
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="1" />
+      <feGaussianBlur result="blur" stdDeviation="1" />
+      <feFlood flood-color="#000" flood-opacity=".2" />
+      <feComposite in2="blur" operator="in" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+    <filter id="drop-shadow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="1" />
+      <feGaussianBlur result="blur-2" stdDeviation="1" />
+      <feFlood flood-color="#000" flood-opacity=".2" />
+      <feComposite in2="blur-2" operator="in" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+    <filter id="drop-shadow-3" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="1" />
+      <feGaussianBlur result="blur-3" stdDeviation="1" />
+      <feFlood flood-color="#000" flood-opacity=".2" />
+      <feComposite in2="blur-3" operator="in" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+    <filter id="drop-shadow-4" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="1" />
+      <feGaussianBlur result="blur-4" stdDeviation="1" />
+      <feFlood flood-color="#000" flood-opacity=".2" />
+      <feComposite in2="blur-4" operator="in" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+  </defs>
+  <circle class="cls-15" cx="465.12" cy="175" r="175" />
+  <circle class="cls-30" cx="755.24" cy="465.12" r="175" />
+  <circle class="cls-19" cx="175" cy="465.12" r="175" />
+  <circle class="cls-21" cx="470.12" cy="755.24" r="175" />
+  <circle class="cls-6" cx="465.12" cy="354.76" r="70" />
+  <circle class="cls-9" cx="464.82" cy="580.24" r="70" />
+  <circle class="cls-10" cx="580.24" cy="465.12" r="70" />
+  <circle class="cls-8" cx="350" cy="465.12" r="70" />
+  <path class="cls-16"
+    d="M585.87,542.6l-4.64-1.86c-.05.13-5.26,12.92-13.64,21.3-3.15,3.15-6.67,5.56-9.91,7.37l-2.61-7.55-14.06,16.21,21.07,4.07-2.74-7.92c3.78-2.04,7.99-4.85,11.78-8.65,9.12-9.12,14.52-22.41,14.74-22.97Z" />
+  <path class="cls-31"
+    d="M574.12,370.8c-2.04-3.78-4.85-7.99-8.65-11.78-9.12-9.12-22.41-14.52-22.97-14.74l-1.86,4.64c.13.05,12.9,5.24,21.3,13.64,3.15,3.15,5.56,6.67,7.37,9.91l-7.55,2.61,16.21,14.06,4.07-21.07-7.92,2.74Z" />
+  <path class="cls-20"
+    d="M360.74,557.78l7.55-2.61-16.21-14.06-4.07,21.06,7.92-2.74c2.04,3.78,4.85,7.99,8.65,11.78,9.12,9.12,22.41,14.52,22.97,14.74l1.86-4.64c-.13-.05-12.9-5.24-21.3-13.64-3.15-3.15-5.56-6.67-7.37-9.9Z" />
+  <path class="cls-2"
+    d="M362.46,368.21c3.15-3.15,6.67-5.56,9.91-7.37l2.61,7.55,14.06-16.21-21.07-4.07,2.74,7.92c-3.78,2.04-7.99,4.85-11.78,8.65-9.12,9.12-14.52,22.41-14.74,22.97l4.64,1.86c.05-.13,5.26-12.92,13.64-21.3Z" />
+  <text class="cls-24" transform="translate(410.76 376.75)">
+    <tspan class="cls-3" x="0" y="0">P</tspan>
+    <tspan class="cls-17" x="33.6" y="-6.18">LAN</tspan>
+  </text><text class="cls-25" transform="translate(543.76 486.3)">
+    <tspan class="cls-3" x="0" y="0">D</tspan>
+    <tspan class="cls-17" x="45.32" y="-6.18">O</tspan>
+  </text><text class="cls-23" transform="translate(397.16 604.33)">
+    <tspan class="cls-26" x="0" y="0">C</tspan>
+    <tspan class="cls-18" x="39.64" y="-7.22">HEC</tspan>
+    <tspan class="cls-17" x="108.23" y="-7.22">K</tspan>
+  </text><text class="cls-22" transform="translate(304.64 485.66)">
+    <tspan class="cls-4" x="0" y="0">A</tspan>
+    <tspan class="cls-17" x="40.7" y="-6.18">CT</tspan>
+  </text><text class="cls-7" transform="translate(333.16 145.71)">
+    <tspan class="cls-27" x="0" y="0">Goa</tspan>
+    <tspan class="cls-32" x="67.77" y="0">l</tspan>
+    <tspan class="cls-29" x="75.82" y="0" xml:space="preserve"> settin</tspan>
+    <tspan class="cls-1" x="177.1" y="0">g</tspan>
+    <tspan class="cls-27" x="194.71" y="0" xml:space="preserve"> and </tspan>
+    <tspan class="cls-27" x="43.49" y="39.54">plannin</tspan>
+    <tspan class="cls-1" x="163.06" y="39.54">g</tspan>
+    <tspan class="cls-27" x="180.67" y="39.54" xml:space="preserve"> of </tspan>
+    <tspan class="cls-27" x="6.37" y="79.09">implementati</tspan>
+    <tspan x="219.93" y="79.09">o</tspan>
+    <tspan class="cls-29" x="240.6" y="79.09">n</tspan>
+  </text><text class="cls-11" transform="translate(332.82 720.59)">
+    <tspan class="cls-27" x="0" y="0">Check</tspan>
+    <tspan class="cls-1" x="101.15" y="0">s</tspan>
+    <tspan class="cls-27" x="115.88" y="0" xml:space="preserve"> o</tspan>
+    <tspan class="cls-1" x="148.43" y="0">f</tspan>
+    <tspan class="cls-27" x="157.14" y="0" xml:space="preserve"> works, </tspan>
+    <tspan class="cls-27" x="-31.67" y="39.54">cust</tspan>
+    <tspan x="35.45" y="39.54">o</tspan>
+    <tspan class="cls-27" x="56.13" y="39.54">me</tspan>
+    <tspan class="cls-14" x="106.16" y="39.54">r</tspan>
+    <tspan class="cls-27" x="112.02" y="39.54" xml:space="preserve"> satisfacti</tspan>
+    <tspan x="266.37" y="39.54">o</tspan>
+    <tspan class="cls-27" x="287.04" y="39.54">n </tspan>
+    <tspan class="cls-27" x="4.99" y="79.09">check</tspan>
+    <tspan class="cls-1" x="100.41" y="79.09">s</tspan>
+    <tspan class="cls-27" x="115.13" y="79.09" xml:space="preserve"> an</tspan>
+    <tspan class="cls-1" x="165.94" y="79.09">d</tspan>
+    <tspan class="cls-27" x="185.84" y="79.09" xml:space="preserve"> data </tspan>
+    <tspan class="cls-27">
+      <tspan x="73.64" y="118.63">analysis</tspan>
+    </tspan>
+  </text><text class="cls-12" transform="translate(658.8 460.31)">
+    <tspan class="cls-27" x="0" y="0">Implementat</tspan>
+    <tspan x="205.34" y="0">io</tspan>
+    <tspan class="cls-27" x="234.05" y="0">n </tspan>
+    <tspan class="cls-27" x="65.9" y="39.54">o</tspan>
+    <tspan class="cls-1" x="87.36" y="39.54">f</tspan>
+    <tspan class="cls-27" x="96.07" y="39.54" xml:space="preserve"> w</tspan>
+    <tspan x="135.78" y="39.54">o</tspan>
+    <tspan class="cls-29" x="156.45" y="39.54">rk</tspan>
+  </text><text class="cls-13" transform="translate(50.59 420.18)">
+    <tspan class="cls-5" x="0" y="0">Re</tspan>
+    <tspan x="38.78" y="0">po</tspan>
+    <tspan class="cls-28" x="80.13" y="0">r</tspan>
+    <tspan class="cls-27" x="93.74" y="0">tin</tspan>
+    <tspan class="cls-1" x="135.1" y="0">g</tspan>
+    <tspan class="cls-27" x="152.7" y="0" xml:space="preserve"> to </tspan>
+    <tspan class="cls-5" x="-6.46" y="39.54">m</tspan>
+    <tspan class="cls-27" x="23.11" y="39.54">anagement </tspan>
+    <tspan class="cls-27" x="-17.41" y="79.09">an</tspan>
+    <tspan class="cls-1" x="22.3" y="79.09">d</tspan>
+    <tspan class="cls-27" x="42.21" y="79.09" xml:space="preserve"> corrective </tspan>
+    <tspan class="cls-27">
+      <tspan x="40.36" y="118.63">actions</tspan>
+    </tspan>
+  </text>
+</svg>
