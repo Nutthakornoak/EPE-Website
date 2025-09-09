@@ -215,6 +215,10 @@ tr {
     border-bottom: 1px solid #ddd;
 }
 
+td a {
+    text-decoration: none;
+}
+
 td img {
     width: 40%;
 }
@@ -293,6 +297,10 @@ td img {
 .heros-info {
     width: 100%;
     padding: 2rem;
+}
+
+.heros-info a {
+    text-decoration: none;
 }
 
 .heros-info p {
