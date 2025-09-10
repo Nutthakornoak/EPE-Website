@@ -342,6 +342,11 @@ td img {
     margin-bottom: 0.5rem;
 }
 
+.branch-info a {
+    color: #FF7F27;
+    text-decoration: none;
+}
+
 .map-btn {
     display: inline-block;
     margin-top: 0.5rem;
